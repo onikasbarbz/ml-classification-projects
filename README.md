@@ -26,7 +26,7 @@ Classifies rice leaf images into 6 disease categories using Convolutional Neural
 
 ---
 
-### 2. 📰 Fake News Classification (Text Classification)
+### 2.  Fake News Classification (Text Classification)
 
 Binary classification of news articles as real or fake using RNN, LSTM, and pretrained GloVe word embeddings.
 
