@@ -6,7 +6,7 @@ Two deep learning classification projects built with TensorFlow/Keras as part of
 
 ## Projects
 
-### 1. 🌾 Rice Leaf Disease Classification (Image Classification)
+### 1.  Rice Leaf Disease Classification (Image Classification)
 
 Classifies rice leaf images into 6 disease categories using Convolutional Neural Networks (CNNs).
 
@@ -17,11 +17,12 @@ Classifies rice leaf images into 6 disease categories using Convolutional Neural
 - Baseline CNN (3 convolutional layers)
 - Deeper CNN with batch normalization and dropout regularization
 - Transfer learning with pretrained VGG16
+  
 - Fine-tuned VGG16 with unfrozen layers
 
 **Evaluation:** Accuracy, Precision, Recall, F1-score, Confusion Matrix
 
-📁 [`image-classification/`](./image-classification/)
+ [`image-classification/`](./image-classification/)
 
 ---
 
@@ -39,7 +40,7 @@ Binary classification of news articles as real or fake using RNN, LSTM, and pret
 
 **Evaluation:** Accuracy, Classification Report, Confusion Matrix
 
-📁 [`text-classification/`](./text-classification/)
+ [`text-classification/`](./text-classification/)
 
 ---
 
@@ -108,7 +109,5 @@ Both notebooks were developed and tested in **Google Colab**. They can also be r
 
 ---
 
-## Author
-
 **Luniva Shrestha**  
-Student ID: 2408028
+
